@@ -5,7 +5,21 @@ authors:
 
 # repository information
 repo_url: https://github.com/tamarervin/tamarervin
-edit_uri: blob/master/mkdocs/docs/
+edit_uri: blob/master/mysite/docs/
+
+# copyright
+copyright: Copyright &copy; 2021 Tamar Ervin
+
+# social links
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<tamarervin@gmail.com>
+    - icon: fontawesome/brands/github
+      link: https://github.com/tamarervin
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tamar-ervin
+
 
 # site navigation
 nav:
@@ -19,6 +33,18 @@ theme:
   name: material
   language: en
   palette:
-    primary: black
-    accent: black
+    primary: pink
+    accent: deep orange
+  logo: img/sun.png
+  favicon: img/sun.png
+  font:
+    code: Oswald
+  features:
+    - navigation.top
+    - header.autohide
+
+# site search
+plugins:
+  - search:
+      lang: en
 

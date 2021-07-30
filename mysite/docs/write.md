@@ -8,7 +8,7 @@
 The detection and mapping of Coronal Holes (CH) in solar Extreme Ultraviolet (EUV) and X-Ray
 images is useful for a variety of scientific and space weather prediction applications.  We build upon a
 previous pipeline for multi-spacecraft synchronic mapping and detection, where long-term averages
-of EUVI/STEREO A/B (195 A) and SDO/AIA (193 A) images are used to compute data-derived
+of EUVI/STEREO A/B (195 Å) and SDO/AIA (193 Å) images are used to compute data-derived
 corrections for center-to-limb variations in images and intensity differences among instruments.  Full-
 Sun maps are built using a merge-mapping process which favors lower intensity data in areas of overlap, 
 helping to mitigate the systematic issues of obscuration and evolution.  After image processing and 
