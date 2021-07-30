@@ -1,0 +1,24 @@
+site_name: Tamar Ervin
+site_description: Tamar Ervin's Personal Website
+authors:
+    - Tamar Ervin
+
+# repository information
+repo_url: https://github.com/tamarervin/tamarervin
+edit_uri: blob/master/mkdocs/docs/
+
+# site navigation
+nav:
+  - Home: index.md
+  - Resume: resume.md
+  - Research: research.md
+  - Written Work: write.md
+
+# theme
+theme:
+  name: material
+  language: en
+  palette:
+    primary: black
+    accent: black
+
