@@ -1,1 +1,1 @@
-### Hi there! Welcome to my E-Portfolio for the UCLA College Scholars Program :)
+### Hi there! Welcome to my GitHub page:)
